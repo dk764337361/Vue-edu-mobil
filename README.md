@@ -10,7 +10,7 @@
 
 基础技术栈：Vue2+VueCli+Vuex+VueRouter+Axios+Vant
 
-责任描述：
+项目描述：
 1. 页面搭建：使用Vant 移动端组件库，配合后台API。
 2. 登陆功能：使用Vuex 和本地存储，配合router的导航守卫跳转，配合后台API。
 3. 接口鉴权和刷新Token：使用Axios的请求拦截器做响应拦截器
