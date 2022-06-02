@@ -15,6 +15,7 @@
 2. 登陆功能：使用Vuex 和本地存储，配合router的导航守卫跳转，配合后台API。
 3. 接口鉴权和刷新Token：使用Axios的请求拦截器做响应拦截器
 4. 支付功能：使用订单API获取订单号，调用支付API，查询订单结果
+5. 视频播放：使用"阿里云视频点播"服务，查询后端API，查询课程是否被解锁。
 
 <img src="/explanation/070.gif" style="width: 100%; display:inline-block; margin: 0 ;">
 
