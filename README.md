@@ -16,9 +16,6 @@
 3. 接口鉴权和刷新Token：使用Axios的请求拦截器做响应拦截器
 4. 支付功能：使用订单API获取订单号，调用支付API，查询订单结果
 
-
-
-
 <img src="/explanation/070.gif" style="width: 100%; display:inline-block; margin: 0 ;">
 
 ## 命令
